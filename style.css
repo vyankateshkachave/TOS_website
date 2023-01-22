@@ -473,3 +473,24 @@
       flex-wrap: nowrap;
     }
   }
+.h1{
+  background-color: aqua;
+  text-align: center;
+}
+h2{
+  background-color: aqua;
+  text-align: center;
+  font-size: 20px;
+}
+h3{
+  background-color: aqua;
+  text-align: center;
+  font-size: 20px;
+  margin-top: 10px;
+}
+.d{
+   background-color: darkgoldenrod;
+  text-align: center;
+  font-size: 20px;
+  margin-top: 10px;
+}
